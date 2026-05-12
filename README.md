@@ -36,8 +36,7 @@ This is an undergraduate empirical project demonstrating a complete research wor
 | `Female_Earnings` | Mean monthly earnings — female workers (national currency) |
 | `Male_Earnings` | Mean monthly earnings — male workers (national currency) |
 | `Wage_Gap (%)` | (Male Earnings − Female Earnings) / Male Earnings × 100 |
-| Sector dummies | Binary variables for each sector (Manufacturing = baseline) |
-| Region dummies | Binary variables for each region (USA / Developed English = baseline) |
+
 
 **Raw data source:** ILOSTAT — `EAR_EHRA_SEX_ECO_NB_A` dataset  
 **Cleaned file:** `data/wage_clean.csv` (288 observations, 16 variables)
