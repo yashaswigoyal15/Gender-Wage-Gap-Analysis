@@ -34,7 +34,7 @@ This is an undergraduate empirical project demonstrating a complete research wor
 | `Sector` | 6 ISIC sectors: Manufacturing (C), Retail (G), Finance (K), Professional (M), Education (P), Health (Q) |
 | `Female_Earnings` | Mean monthly earnings — female workers (national currency) |
 | `Male_Earnings` | Mean monthly earnings — male workers (national currency) |
-| `Wage_Gap (%)` | (Male − Female) / Male × 100 |
+| `Wage_Gap (%)` | (Male Earnings − Female Earnings) / Male Earnings × 100 |
 | Sector dummies | Binary variables for each sector (Manufacturing = baseline) |
 | Region dummies | Binary variables for each region (USA / Developed English = baseline) |
 
