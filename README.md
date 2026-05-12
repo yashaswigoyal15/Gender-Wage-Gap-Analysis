@@ -4,7 +4,7 @@ Author: Yashaswi Goyal
 BA Economics Honours| BS Data Science & Applications
 
 Tools: R (tidyverse, ggplot2, lmtest) | Excel  
-Data Source:ILOSTAT — ILO Mean Nominal Monthly Earnings by Sex and Economic Activity(https://ilostat.ilo.org/data/)
+Data Source: ILOSTAT: ILO Mean Nominal Monthly Earnings by Sex and Economic Activity(https://ilostat.ilo.org/data/)
 
 ---
 
