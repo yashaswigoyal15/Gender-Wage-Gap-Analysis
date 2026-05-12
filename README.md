@@ -1,4 +1,4 @@
-# Gender Wage Gap Analysis — Cross-Sector & Cross-Country Empirical Study
+# Gender Wage Gap Analysis: Cross-Sector & Cross-Country Empirical Study
 
 Author: Yashaswi Goyal  
 BA Economics Honours| BS Data Science & Applications
