@@ -110,7 +110,7 @@ install.packages("lmtest")
 
 ## Limitations
 
-- Earnings reported in national currency — cross-country wage level comparisons are not PPP-adjusted
+- Earnings reported in local currency of the country: cross-country wage level comparisons are not PPP-adjusted
 - Small country sample (n=8) limits statistical power for region dummies
 - Model does not control for individual-level factors (education, experience, occupation) within sectors
 - Estimates reflect total associations, not causal effects net of compositional differences
